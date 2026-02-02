@@ -1,6 +1,5 @@
 # Guide to AI Disclosure
 
-## Why Disclosure Matters
 AI tools now participate in many forms of creative and technical work, but their involvement isn’t always visible from the final output. Clear disclosure helps readers understand how a piece was produced, preserves trust in authorship, and distinguishes human judgment from automated generation. It also aligns with emerging norms across academia, publishing, and industry, where transparency about AI assistance is increasingly expected. The goal isn’t to diminish the work, but to give audiences an honest view of the collaboration behind it.
 
 ---
@@ -57,7 +56,6 @@ Human provided only a minimal prompt; AI generated the work.
 
 ---
 
-## Why the Distinction Between Levels 4 and 5 Does Not Matter
 Levels 4 and 5 both describe work where AI is the primary creator and the human is not the author in any meaningful legal or creative sense. Although the workflow differs—Level 4 involves human constraints, Level 5 involves minimal prompting—the outcome is the same: the human cannot claim authorship or copyright. For readers, publishers, and legal frameworks, this distinction offers no practical value. A single disclosure that the work was generated with AI assistance is sufficient, and further granularity would add complexity without improving transparency.
 
 ---
@@ -83,9 +81,9 @@ Create a dedicated section titled AI Disclosure, and place the disclosure phrase
 
 This section should appear:
 
-before any citation or reference section, or
+- before any citation or reference section, or
 
-as the final section if the document does not include citations or references.
+- as the final section if the document does not include citations or references.
 
 This approach mirrors how organizations handle metadata, revision history, and compliance notes.
 
