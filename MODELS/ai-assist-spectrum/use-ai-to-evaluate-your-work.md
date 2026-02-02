@@ -59,4 +59,4 @@ Based on this spectrum, provide:
 Notably, if you use the Spectrum often and consistently, most AI systems tend to recognize the pattern, and you can simply say “Evaluate this using the AI‑Assist Spectrum” without repeating the whole framework. It becomes a smooth, almost effortless part of your workflow.
 
 ### AI Disclosure
-Refined with assistance of AI tools.
+**Refined with assistance of AI tools.**
