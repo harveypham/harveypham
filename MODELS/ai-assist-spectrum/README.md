@@ -164,5 +164,5 @@ Based on this spectrum, provide:
 
 ---
 
-## AI-Assist Disclosure
+## AI Disclosure
 **Refined with assistance of AI tools.**
