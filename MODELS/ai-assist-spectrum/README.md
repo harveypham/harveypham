@@ -9,14 +9,14 @@ This framework is **domain‑agnostic** and applies to writing, design, coding, 
 ---
 
 ## Why This Spectrum Matters
-AI is now embedded in everyday creative and technical workflows, but most teams lack a shared language to describe *how much* AI contributed to a given artifact. This creates confusion in four critical areas:
 
-- **Authorship clarity** — People need a way to articulate their role when AI is involved.  
-- **Team transparency** — Collaborators benefit from knowing whether a piece was refined, expanded, or generated.  
-- **Quality expectations** — Different levels imply different reliability, originality, and review requirements.  
-- **Copyright implications** — Human authorship determines whether a work is legally protectable.
+This model gives creators, teams, and readers a shared vocabulary for describing AI involvement with clarity and transparency. It supports:
+- ethical disclosure
+- copyright awareness
+- consistent communication
+- clearer expectations for collaborators and audiences
 
-The AI‑Assist Spectrum provides a simple model that makes these distinctions explicit. It helps creators communicate clearly, teams align expectations, and organizations set consistent policies around AI‑assisted work.
+As AI becomes a standard tool, the ability to articulate how it was used becomes just as important as the work itself.
 
 ---
 
