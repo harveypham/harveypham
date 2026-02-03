@@ -10,5 +10,18 @@ A user curates a list of AI responses as a collection of behind‑the‑scenes h
 Evaluation:  
 At first glance, this might look like a Level 3 case because the visible content is mostly AI‑generated. However, it fits cleanly under Level 2. The human’s authorship lies in the curation — choosing what to include, arranging it, and shaping the experience. AI did not participate in that curatorial work, so the human remains the primary author of the final artifact’s structure and intent.
 
+### Heavy AI Research Does Not Equal Higher Authorship Level
+Situation:  
+Research framework A and compare/contrast it with my work (at Level 1).
+Then research all related frameworks on the internet that are similar to the two.
+Produce a summary and a positioning statement.
+
+Analysis:  
+It is easy to overweight the amount of work the AI performs when scanning large amounts of information online. This can lead to the mistaken impression that the artifact belongs at Level 3 or higher.
+However, the Spectrum measures conceptual authorship, not labor.
+Because the AI did not introduce new concepts or alter the conceptual structure, the correct classification remains:
+
+**Level 2 — Detail‑expanded by AI.**
+
 ## AI Disclosure  
 **Detail‑expanded with assistance of AI tools.**
