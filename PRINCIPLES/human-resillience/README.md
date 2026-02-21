@@ -11,7 +11,7 @@ If a viable human path already exists, consider it the baseline solution. Any sy
 
 A recurring failure mode in system design is the assumption that humans know nothing. In practice, designers implicitly rely on human knowledge and judgment all the time — they just fail to acknowledge it. This principle calls for making those assumptions explicit and grounding them in real human behavior rather than fictional personas or speculative narratives. Assumptions should be anchored in real‑life expectations, not invented user archetypes.
 
-Human resilience is not a liability to be engineered away. It is a design asset — a stabilizing force that allows systems to remain simpler, clearer, and more robust. The healthiest systems are those that leave room for human judgment, correction, and improvisation, rather than attempting to automate every possibility and collapsing under the weight of their own complexity
+Human resilience is not a liability to be engineered away. It is a design asset — a stabilizing force that allows systems to remain simpler, clearer, and more robust. The healthiest systems are those that leave room for human judgment, correction, and improvisation, rather than attempting to automate every possibility and collapsing under the weight of their own complexity.
 
 ---
 
