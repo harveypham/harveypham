@@ -13,6 +13,9 @@ A recurring failure mode in system design is the assumption that humans know not
 
 Human resilience is not a liability to be engineered away. It is a design asset — a stabilizing force that allows systems to remain simpler, clearer, and more robust. The healthiest systems are those that leave room for human judgment, correction, and improvisation, rather than attempting to automate every possibility and collapsing under the weight of their own complexity.
 
+## Examples
+Examples in the accompanying [examples](examples/) folder illustrate how human resilience appears in real systems, both when it is supported and when it is constrained.
+
 ---
 
 ## AI Disclosure
