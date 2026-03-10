@@ -2,6 +2,8 @@
 
 AI tools now participate in many forms of creative and technical work, but their involvement isn’t always visible from the final output. Clear disclosure helps readers understand how a piece was produced, preserves trust in authorship, and distinguishes human judgment from automated generation. It also aligns with emerging norms across academia, publishing, and industry, where transparency about AI assistance is increasingly expected. The goal isn’t to diminish the work, but to give audiences an honest view of the collaboration behind it.
 
+This guide builds directly on the [AI‑Assist Spectrum](README.md), translating its levels into practical disclosure language.
+
 ---
 
 ## Level 0 — Fully human; no AI involvement  
