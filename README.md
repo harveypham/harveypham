@@ -1,18 +1,9 @@
 # Harvey Pham’s Conceptual Library
 
-This repository is the home of my conceptual library. It contains a small number of stable, high‑signal categories that reflect how I think about engineering, systems, and clarity.
+A small collection of stable ideas on how I think about engineering, systems, and clarity.
 
-## Structure
-
-- **ABOUT.md** — who I am and how I think.
-- **CITATION.cff** — how to cite this conceptual library.
-
-### Core Pillars
-- **PRINCIPLES/** — my stances and the reasoning behind them.
+- **ABOUT.md** — who I am and how I work.
 - **MODELS/** — conceptual machinery and abstractions.
-- **ARCHITECTURES/** — structural descriptions and system‑level thinking.
+- **PRINCIPLES/** — my stances and the reasoning behind them.
 
-### Supporting Material
-- **field-notes/** — personal observations and lived experience that inform my thinking but are not part of the core conceptual pillars.
-
-Each directory contains its own README with local context.
+Each entry is a folder. README.md is the main piece; supplemental material lives alongside it.
