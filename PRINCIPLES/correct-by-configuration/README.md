@@ -1,4 +1,5 @@
 # Correct-by-Configuration Manifesto
+<p align="right">Refined with assistance of AI tools</p
 
 We do not write code to compensate for misconfiguration.
 
