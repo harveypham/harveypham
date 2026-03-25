@@ -10,7 +10,7 @@ What we didn’t realize was that this workaround quietly violated the page‑al
 
 The problem finally surfaced when another vendor introduced a hybrid drive — a rotational disk with a small solid‑state cache. Under ideal access patterns, it could achieve about 90% of SSD performance. But in our tests, we never saw the gains they advertised. After long debugging sessions on both sides, including inspecting ATA packets with a SATA analyzer, we discovered the root cause: our extra‑byte workaround broke their caching logic. They were surprised by our access pattern and pointed out that we weren’t following established best practices.
 
-By then, we couldn’t simply remove the workaround — doing so would break compatibility with the original vendor’s drive. So we created a second workaround, which we jokingly called “punish the offender.” We first issued a request with the correct size. If the drive returned one byte short, we issued a second request with the extra byte. Drives that followed the spec completed on the first call; the buggy drive required two.
+Although the original vendor had already fixed the firmware in their next‑generation drives, we couldn’t simply remove the workaround — doing so would break compatibility with the first‑generation units already deployed in the field. So we created a second workaround, which we jokingly called “punish the offender.” We first issued a request with the correct size. If the drive returned one byte short, we issued a second request with the extra byte. Drives that followed the spec completed on the first call; the buggy drive required two.
 
 The entire situation could have been avoided if we had escalated the bug instead of engineering around it.
 
