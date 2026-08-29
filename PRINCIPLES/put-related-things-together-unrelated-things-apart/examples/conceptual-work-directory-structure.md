@@ -1,4 +1,5 @@
 # Conceptual Work Directory Structure
+<p align="right">Refined with assistance of AI tools</p
 
 The `concepts` folder structure demonstrates the principle at multiple levels simultaneously.
 

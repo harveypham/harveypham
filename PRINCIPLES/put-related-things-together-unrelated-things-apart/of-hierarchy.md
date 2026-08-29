@@ -1,4 +1,5 @@
 # Of Hierarchy
+<p align="right">Refined with assistance of AI tools</p
 
 In a hierarchical structure, this principle maps onto two axes.
 

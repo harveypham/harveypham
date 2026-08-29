@@ -1,4 +1,5 @@
 # Practice Notes
+<p align="right">Refined with assistance of AI tools</p
 
 ## Define the Concept First
 The principle does not define "related" or "unrelated" — that is the practitioner's job. Before applying the principle, define the concept that determines relatedness for the task at hand. The grouping follows from that definition; the principle tells you what to do once you've decided.
