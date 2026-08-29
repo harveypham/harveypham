@@ -2,7 +2,7 @@
 
 A small collection of stable ideas on how I think about engineering, systems, and clarity.
 
-- **ABOUT.md** — who I am and how I work.
+- **[ABOUT.md](ABOUT.md)** — who I am and how I work.
 - **MODELS/** — conceptual machinery and abstractions.
 - **PRINCIPLES/** — my stances and the reasoning behind them.
 
